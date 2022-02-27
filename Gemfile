@@ -54,6 +54,9 @@ gem "bootsnap", require: false
 # devise
 gem 'devise', '~>4.2'
 
+# manage soft order
+gem 'acts_as_list', '~> 0.9.19'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
