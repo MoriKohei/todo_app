@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :tags
   resources :todos
   resources :goals
   devise_for :users
